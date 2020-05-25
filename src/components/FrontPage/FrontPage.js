@@ -12,22 +12,22 @@ class App extends React.Component {
           </div>
           <div>
             <h1>
-              I'm a{' '}
+              I'm{' '}
               <Typical
                 loop={Infinity}
                 wrapper='b'
                 steps={[
-                  'Full Stack Developer.',
+                  'a Full Stack Developer.',
                   1000,
-                  'Designer.',
+                  'a Designer.',
                   1000,
-                  'Open Source Enthusiast.',
+                  'an Open Source Enthusiast.',
                   1000,
-                  'Orator.',
+                  'an Orator.',
                   1000,
-                  'Gamer.',
+                  'a Gamer.',
                   1000,
-                  'Movie Buff.',
+                  'a Movie Buff.',
                   1000,
                 ]}
               />
