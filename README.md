@@ -5,7 +5,7 @@ This repository contains the code for my personal website. Down below are instru
 ### How To Customize It as per Your Need:
 Below are detailed instructions on how to customize this to your taste in case you're new to this. I'd love to see your variations and feature them here so feel free to send them to me. Also all suggestions are welcomed. In case you liked this or end up using it I ask nothing, but a mention or a star on the repo would be nice for sure :)
 #### Guide to customizing to your need:
-###### 1. Changing the landing page colors:
+##### 1. Changing the landing page colors:
 Go to src/components/BackgroundNew/style.css
 
 Replace "rgb(0, 207, 17) 50%, rgb(0, 135, 224) 50%" with any two colors you'd like.
