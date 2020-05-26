@@ -1,68 +1,47 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Portfolio
+This repository contains the code for my personal website. Down below are instructions as to how you can make suitable changes to customize this to your need.
+## Deployed at: https://personal-website-builder.netlify.app/
 
-## Available Scripts
+### How To Customize It as per Your Need:
+Below are detailed instructions on how to customize this to your taste in case you're new to this. I'd love to see your variations and feature them here so feel free to send them to me. Also all suggestions are welcomed. In case you liked this or end up using it I ask nothing, but a mention or a star on the repo would be nice for sure :)
+#### Guide to customizing to your need:
+###### 1. Changing the landing page colors:
+Go to src/components/BackgroundNew/style.css
 
-In the project directory, you can run:
+Replace "rgb(0, 207, 17) 50%, rgb(0, 135, 224) 50%" with any two colors you'd like.
 
-### `npm start`
+##### 2. Add your name and typography:
+Go to src/components/FrontPage/FrontPage.js
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Replace YourName with your name. You can also go ahead and change the stuff in "steps" to set what you want to see in typography.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+##### 3. Add your photo
+Go to src/static
 
-### `npm test`
+Replace mainPhoto.png with your photo and remember to keep the name of your photo as mainPhoto.png
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##### 4. Add your About Me
+Go to src/components/AboutPage/AboutPage.js
 
-### `npm run build`
+Replace the content in
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+with what you want to. I'd suggest you dont change the post script so that people know that the component is clickable.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+##### 5.Add your Socials
+Go to src/components/AboutPage/AboutPage.js
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Change the url in with your desired url.
 
-### `npm run eject`
+##### 6. Add your Projects
+Go to src/components/PortfolioPage/PortfolioPage.js
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Replace project names. The url for the github repo goes in anchor tag () before the image and for the live preview goes in the second anchor tag.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Special Thanks to:
+https://www.npmjs.com/package/react-flippy
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+https://www.npmjs.com/package/react-typical
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+https://www.npmjs.com/package/react-social-icons
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This project was bootstrapped with Create React App.
