@@ -2,7 +2,7 @@
 This repository contains the code for my personal website. Down below are instructions as to how you can make suitable changes to customize this to your need.
 ## Deployed at: https://arshsharma.netlify.com/
 
-### How To Customize It as per Your Need:
+### How to customize it as per your need:
 Below are detailed instructions on how to customize this to your taste in case you're new to this. I'd love to see your variations and feature them here so feel free to send them to me. Also all suggestions are welcomed. In case you liked this or end up using it I ask nothing, but a mention or a star on the repo would be nice for sure :)
 #### Guide to customizing to your need:
 ##### 1. Changing the landing page colors:
