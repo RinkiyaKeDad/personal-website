@@ -3,6 +3,7 @@ import BackgroundNew from './BackgroundNew/BackgroundNew';
 import FrontPage from './FrontPage/FrontPage';
 import AboutPage from './AboutPage/AboutPage';
 import PortfolioPage from './PortfolioPage/PortfolioPage';
+import SkillsPage from './SkillsPage/SkillsPage';
 
 class App extends React.Component {
   render() {
@@ -11,6 +12,7 @@ class App extends React.Component {
         <BackgroundNew />
         <FrontPage />
         <AboutPage />
+        <SkillsPage />
         <PortfolioPage />
       </div>
     );
