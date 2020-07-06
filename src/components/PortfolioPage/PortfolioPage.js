@@ -16,9 +16,9 @@ class App extends React.Component {
             style={{ width: '18rem', minHeight: '15rem' }}
           >
             <div class='card-body'>
-              <h5 class='card-title'>Modern Tic-Tac-Toe</h5>
+              <h5 class='card-title'>Headlines</h5>
               <a
-                href='https://github.com/RinkiyaKeDad/tic-tac-toe'
+                href='https://github.com/RinkiyaKeDad/headlines-backend'
                 target='_blank'
               >
                 <img
@@ -32,11 +32,9 @@ class App extends React.Component {
                   }}
                 />
               </a>
-              <p class='card-text'>
-                Tech Used: Bootstrap4 / JavaScript (ES6+) / CSS3 / HTML5
-              </p>
+              <p class='card-text'>Tech Used: React / Express / Node.js</p>
               <a
-                href='https://rinkiyakedad.github.io/tic-tac-toe/'
+                href='https://headlines.netlify.app/'
                 class='btn btn-primary'
                 target='_blank'
               >
@@ -49,9 +47,9 @@ class App extends React.Component {
             style={{ width: '18rem', minHeight: '15rem' }}
           >
             <div class='card-body'>
-              <h5 class='card-title'>Portfolio Website Generator</h5>
+              <h5 class='card-title'>500 Words</h5>
               <a
-                href='https://github.com/RinkiyaKeDad/tic-tac-toe'
+                href='https://github.com/RinkiyaKeDad/500Words-frontend'
                 target='_blank'
               >
                 <img
@@ -65,10 +63,12 @@ class App extends React.Component {
                   }}
                 />
               </a>
-              <p class='card-text'>
-                Tech Used: React / Bootstrap4 / CSS3 (Flexbox){' '}
-              </p>
-              <a href='#' class='btn btn-primary' target='_blank'>
+              <p class='card-text'>Tech Used: MERN Stack </p>
+              <a
+                href='https://words-d5b2b.web.app/'
+                class='btn btn-primary'
+                target='_blank'
+              >
                 See Deployed Version
               </a>
             </div>
@@ -80,10 +80,7 @@ class App extends React.Component {
           >
             <div class='card-body'>
               <h5 class='card-title'>Other Projects</h5>
-              <a
-                href='https://github.com/RinkiyaKeDad/tic-tac-toe'
-                target='_blank'
-              >
+              <a href='https://github.com/RinkiyaKeDad' target='_blank'>
                 <img
                   alt='GitHub Repo'
                   src={gitLogo}
@@ -98,7 +95,11 @@ class App extends React.Component {
               <p class='card-text'>
                 Check out my Github Page to see other projects.
               </p>
-              <a href='#' class='btn btn-primary' target='_blank'>
+              <a
+                href='https://github.com/RinkiyaKeDad'
+                class='btn btn-primary'
+                target='_blank'
+              >
                 See My Repositories
               </a>
             </div>

@@ -12,7 +12,7 @@ class App extends React.Component {
         <BackgroundNew />
         <FrontPage />
         <AboutPage />
-        <SkillsPage />
+        {/*<SkillsPage />*/}
         <PortfolioPage />
       </div>
     );
