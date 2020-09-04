@@ -3,8 +3,13 @@ This repository contains the code for my personal website. Down below are instru
 ## Deployed at: https://arshsharma.netlify.com/
 
 ### How to customize it as per your need:
-Below are detailed instructions on how to customize this to your taste in case you're new to this. I'd love to see your variations and feature them here so feel free to send them to me. Also all suggestions are welcomed. In case you liked this or end up using it I ask nothing, but a mention or a star on the repo would be nice for sure :)
+Below are detailed instructions on how to customize this to your taste in case you're new to this. I'd love to see your variations and feature them here so feel free to send them to me. Also all suggestions are welcomed. :)
 #### Guide to customizing to your need:
+
+##### 0. Setting up the environment
+The site was made using create-react-app, so clone the repo and open it in your favorite code editor. Run `npm install` to download all dependencies. Run `npm start` to start the project locally on your machine.
+
+
 ##### 1. Changing the landing page colors:
 Go to src/components/BackgroundNew/style.css
 
@@ -13,7 +18,7 @@ Replace "rgb(0, 207, 17) 50%, rgb(0, 135, 224) 50%" with any two colors you'd li
 ##### 2. Add your name and typography:
 Go to src/components/FrontPage/FrontPage.js
 
-Replace YourName with your name. You can also go ahead and change the stuff in "steps" to set what you want to see in typography.
+Replace "Arsh" with your name. You can also go ahead and change the stuff in "steps" to set what you want to see in typography.
 
 ##### 3. Add your photo
 Go to src/static
@@ -23,9 +28,7 @@ Replace mainPhoto.png with your photo and remember to keep the name of your phot
 ##### 4. Add your About Me
 Go to src/components/AboutPage/AboutPage.js
 
-Replace the content in
-
-with what you want to. I'd suggest you dont change the post script so that people know that the component is clickable.
+Replace myinfo with whatever you want to. I'd suggest you dont change the post script so that people know that the component is clickable.
 
 ##### 5.Add your Socials
 Go to src/components/AboutPage/AboutPage.js
