@@ -16,9 +16,9 @@ class App extends React.Component {
             style={{ width: '18rem', minHeight: '15rem' }}
           >
             <div class='card-body'>
-              <h5 class='card-title'>Headlines</h5>
+              <h5 class='card-title'>Amazon Clone</h5>
               <a
-                href='https://github.com/RinkiyaKeDad/headlines-backend'
+                href='https://github.com/RinkiyaKeDad/amazon-clone-frontend'
                 target='_blank'
               >
                 <img
@@ -32,9 +32,11 @@ class App extends React.Component {
                   }}
                 />
               </a>
-              <p class='card-text'>Tech Used: React / Express / Node.js</p>
+              <p class='card-text'>
+                Tools: React, Context API, Firebase Authentication
+              </p>
               <a
-                href='https://headlines.netlify.app/'
+                href='https://clone-569ab.web.app/'
                 class='btn btn-primary'
                 target='_blank'
               >
@@ -47,9 +49,9 @@ class App extends React.Component {
             style={{ width: '18rem', minHeight: '15rem' }}
           >
             <div class='card-body'>
-              <h5 class='card-title'>500 Words</h5>
+              <h5 class='card-title'>Jotter</h5>
               <a
-                href='https://github.com/RinkiyaKeDad/500Words-frontend'
+                href='https://github.com/RinkiyaKeDad/jotter-frontend'
                 target='_blank'
               >
                 <img
@@ -63,9 +65,9 @@ class App extends React.Component {
                   }}
                 />
               </a>
-              <p class='card-text'>Tech Used: MERN Stack </p>
+              <p class='card-text'>Tools: React, Express, MongoDB Atlas</p>
               <a
-                href='https://words-d5b2b.web.app/'
+                href='https://jotter-arsh.netlify.app/'
                 class='btn btn-primary'
                 target='_blank'
               >
