@@ -5,18 +5,18 @@ import AboutPage from './AboutPage/AboutPage';
 import PortfolioPage from './PortfolioPage/PortfolioPage';
 import SkillsPage from './SkillsPage/SkillsPage';
 
-class App extends React.Component {
-  render() {
-    return (
-      <div style={{ overflowX: 'hidden' }}>
-        <BackgroundNew />
-        <FrontPage />
-        <AboutPage />
-        {/*<SkillsPage />*/}
-        <PortfolioPage />
-      </div>
-    );
-  }
+import React from 'react';
+
+function App() {
+  return (
+    <div style={{ overflowX: 'hidden' }}>
+      <BackgroundNew />
+      <FrontPage />
+      <AboutPage />
+      {/*<SkillsPage />*/}
+      <PortfolioPage />
+    </div>
+  );
 }
 
 export default App;
