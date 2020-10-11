@@ -5,8 +5,6 @@ import AboutPage from './AboutPage/AboutPage';
 import PortfolioPage from './PortfolioPage/PortfolioPage';
 import SkillsPage from './SkillsPage/SkillsPage';
 
-import React from 'react';
-
 function App() {
   return (
     <div style={{ overflowX: 'hidden' }}>
