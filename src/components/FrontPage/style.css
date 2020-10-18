@@ -5,6 +5,9 @@
   box-sizing: border-box;
 }
 
+.icon-config {
+}
+
 .positioning {
   min-height: 100vh;
   display: flex;

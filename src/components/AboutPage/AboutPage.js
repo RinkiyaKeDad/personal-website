@@ -60,37 +60,6 @@ function Aboutpage() {
         }}
       >
         <h1>Find Me On</h1>
-        <div class='socials-style'>
-          <div>
-            <SocialIcon
-              url='https://github.com/RinkiyaKeDad'
-              style={{ height: 55, width: 55 }}
-            />
-          </div>
-          <div style={{ width: '.3rem' }}></div>
-          <div>
-            <SocialIcon
-              url='https://www.linkedin.com/in/arsh4/'
-              style={{ height: 55, width: 55 }}
-            />
-          </div>
-          <div style={{ width: '.3rem' }}></div>
-
-          <div>
-            <SocialIcon
-              url='https://codepen.io/RinkiyaKeDad'
-              style={{ height: 55, width: 55 }}
-            />
-          </div>
-          <div style={{ width: '.3rem' }}></div>
-
-          <div>
-            <SocialIcon
-              url='https://www.facebook.com/rinkiya.ke.dad/'
-              style={{ height: 55, width: 55 }}
-            />
-          </div>
-        </div>
       </BackSide>
     </Flippy>
   );

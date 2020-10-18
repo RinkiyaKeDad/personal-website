@@ -13,6 +13,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-flippy": "^0.1.5",
+    "react-icons": "^3.11.0",
     "react-scripts": "3.4.1",
     "react-typical": "^0.1.3"
   },
