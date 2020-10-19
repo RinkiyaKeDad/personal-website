@@ -7,6 +7,7 @@ import {
   AiFillLinkedin,
   AiFillInstagram,
   AiFillMediumSquare,
+  AiOutlineTwitter,
 } from 'react-icons/ai';
 import { FaDev, FaDeviantart } from 'react-icons/fa';
 import { IconContext } from 'react-icons';
@@ -41,41 +42,90 @@ function Frontpage() {
         <div class='socials-style'>
           <IconContext.Provider value={{ size: '3.5em' }}>
             <div>
-              <AiFillGithub />
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://github.com/RinkiyaKeDad'
+                target='_blank'
+              >
+                <AiFillGithub />
+              </a>
             </div>
           </IconContext.Provider>
           <div style={{ width: '.3rem' }}></div>
           <IconContext.Provider value={{ size: '3.5em' }}>
             <div>
-              <AiFillLinkedin />
-            </div>
-          </IconContext.Provider>
-          <div style={{ width: '.3rem' }}></div>
-
-          <IconContext.Provider value={{ size: '3.5em' }}>
-            <div>
-              <AiFillInstagram />
-            </div>
-          </IconContext.Provider>
-          <div style={{ width: '.3rem' }}></div>
-
-          <IconContext.Provider value={{ size: '3.5em' }}>
-            <div>
-              <AiFillMediumSquare />
-            </div>
-          </IconContext.Provider>
-          <div style={{ width: '.3rem' }}></div>
-
-          <IconContext.Provider value={{ size: '3.5em' }}>
-            <div>
-              <FaDev />
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://www.linkedin.com/in/arsh4/'
+                target='_blank'
+              >
+                <AiFillLinkedin />
+              </a>
             </div>
           </IconContext.Provider>
           <div style={{ width: '.3rem' }}></div>
 
           <IconContext.Provider value={{ size: '3.5em' }}>
             <div>
-              <FaDeviantart />
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://www.instagram.com/rinkiya.ke.dad/'
+                target='_blank'
+              >
+                <AiFillInstagram />
+              </a>
+            </div>
+          </IconContext.Provider>
+          <div style={{ width: '.3rem' }}></div>
+
+          <IconContext.Provider value={{ size: '3.5em' }}>
+            <div>
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://medium.com/@rinkiyakedad'
+                target='_blank'
+              >
+                <AiFillMediumSquare />
+              </a>
+            </div>
+          </IconContext.Provider>
+          <div style={{ width: '.3rem' }}></div>
+
+          <IconContext.Provider value={{ size: '3.5em' }}>
+            <div>
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://dev.to/rinkiyakedad'
+                target='_blank'
+              >
+                <FaDev />
+              </a>
+            </div>
+          </IconContext.Provider>
+          <div style={{ width: '.3rem' }}></div>
+
+          <IconContext.Provider value={{ size: '3.5em' }}>
+            <div>
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://github.com/RinkiyaKeDad'
+                target='_blank'
+              >
+                <FaDeviantart />
+              </a>
+            </div>
+          </IconContext.Provider>
+          <div style={{ width: '.3rem' }}></div>
+
+          <IconContext.Provider value={{ size: '3.5em' }}>
+            <div>
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://twitter.com/rinkiyakedad'
+                target='_blank'
+              >
+                <AiOutlineTwitter />
+              </a>
             </div>
           </IconContext.Provider>
         </div>
