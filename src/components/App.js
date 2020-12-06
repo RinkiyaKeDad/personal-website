@@ -2,8 +2,6 @@ import React from 'react';
 import BackgroundNew from './BackgroundNew/BackgroundNew';
 import FrontPage from './FrontPage/FrontPage';
 import AboutPage from './AboutPage/AboutPage';
-import PortfolioPage from './PortfolioPage/PortfolioPage';
-import SkillsPage from './SkillsPage/SkillsPage';
 
 function App() {
   return (
@@ -11,8 +9,6 @@ function App() {
       <BackgroundNew />
       <FrontPage />
       <AboutPage />
-      {/*<SkillsPage />*/}
-      <PortfolioPage />
     </div>
   );
 }

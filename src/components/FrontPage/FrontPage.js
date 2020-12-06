@@ -1,7 +1,6 @@
 import React from 'react';
 import './style.css';
 import Typical from 'react-typical';
-import { SocialIcon } from 'react-social-icons';
 import {
   AiFillGithub,
   AiFillLinkedin,
@@ -44,13 +43,27 @@ function Frontpage() {
             <div>
               <a
                 style={{ textDecoration: 'none', color: 'inherit' }}
-                href='https://github.com/RinkiyaKeDad'
+                href='https://www.instagram.com/rinkiya.ke.dad/'
                 target='_blank'
               >
-                <AiFillGithub />
+                <AiFillInstagram />
               </a>
             </div>
           </IconContext.Provider>
+          <div style={{ width: '.3rem' }}></div>
+
+          <IconContext.Provider value={{ size: '3.5em' }}>
+            <div>
+              <a
+                style={{ textDecoration: 'none', color: 'inherit' }}
+                href='https://github.com/RinkiyaKeDad'
+                target='_blank'
+              >
+                <FaDeviantart />
+              </a>
+            </div>
+          </IconContext.Provider>
+
           <div style={{ width: '.3rem' }}></div>
           <IconContext.Provider value={{ size: '3.5em' }}>
             <div>
@@ -69,23 +82,10 @@ function Frontpage() {
             <div>
               <a
                 style={{ textDecoration: 'none', color: 'inherit' }}
-                href='https://www.instagram.com/rinkiya.ke.dad/'
+                href='https://github.com/RinkiyaKeDad'
                 target='_blank'
               >
-                <AiFillInstagram />
-              </a>
-            </div>
-          </IconContext.Provider>
-          <div style={{ width: '.3rem' }}></div>
-
-          <IconContext.Provider value={{ size: '3.5em' }}>
-            <div>
-              <a
-                style={{ textDecoration: 'none', color: 'inherit' }}
-                href='https://medium.com/@rinkiyakedad'
-                target='_blank'
-              >
-                <AiFillMediumSquare />
+                <AiFillGithub />
               </a>
             </div>
           </IconContext.Provider>
@@ -103,15 +103,14 @@ function Frontpage() {
             </div>
           </IconContext.Provider>
           <div style={{ width: '.3rem' }}></div>
-
           <IconContext.Provider value={{ size: '3.5em' }}>
             <div>
               <a
                 style={{ textDecoration: 'none', color: 'inherit' }}
-                href='https://github.com/RinkiyaKeDad'
+                href='https://medium.com/@rinkiyakedad'
                 target='_blank'
               >
-                <FaDeviantart />
+                <AiFillMediumSquare />
               </a>
             </div>
           </IconContext.Provider>
