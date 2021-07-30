@@ -22,6 +22,8 @@ git submodule update --remote --merge
 
 3. `cd public` and then commit and push. To confirm `cd public` and do `git remote -v`.
 
+4. The commit and push from root of this repo so that it updates the version of `public` it has.
+
 ### Resources
 
 1. [This](https://youtu.be/LIFvgrRxdt4) video.
