@@ -16,7 +16,7 @@ git submodule update --remote --merge
 
 ### Deploying
 
-1. `git submodule add -b master https://github.com/RinkiyaKeDad/rinkiyakedad.github.io.git public`
+1. `git submodule add -b master https://github.com/RinkiyaKeDad/rinkiyakedad.github.io.git public` (first time only)
 
 2. `hugo` in the root of this repo to geenrate the files in public directory.
 
