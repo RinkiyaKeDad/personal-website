@@ -7,7 +7,7 @@ tags:
   - Do You Concur?
 ---
 
-This post is the second in my series of articles on [Concurrency in Go](https://arshs.tech/concurrency-in-golang/). In this post, we'll understand what a race condition is, the why and how of it, and finally, we see some code that creates a race condition, and then we will learn to fix that race condition with the help of Mutexes. So let's get started!
+This post is the second in my series of articles on [Concurrency in Go](https://arshsharma.com/posts/2021-05-19-concurrency-in-golang/). In this post, we'll understand what a race condition is, the why and how of it, and finally, we see some code that creates a race condition, and then we will learn to fix that race condition with the help of Mutexes. So let's get started!
 
 ## The What, Why And How Of A Race Condition
 
