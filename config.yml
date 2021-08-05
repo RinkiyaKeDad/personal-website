@@ -27,7 +27,7 @@ params:
     keywords: [Blog, Portfolio, Software, Engineer]
     author: Arsh Sharma
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["socialimage.png"]
     DateFormat: "January 2, 2006"
     defaultTheme: dark # auto, light
     disableThemeToggle: false
