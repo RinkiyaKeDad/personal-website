@@ -127,18 +127,22 @@ menu:
           name: About Me
           url: /about/
           weight: 10
-        - identifier: blog
-          name: Blog
-          url: /archives/
+        - identifier: talks
+          name: Talks
+          url: /talks/
           weight: 20
+        - identifier: blog
+          name: Blogs
+          url: /archives/
+          weight: 30
         - identifier: tags
           name: Tags
           url: /tags/
-          weight: 30
+          weight: 40
         - identifier: search
           name: Search
           url: /search/
-          weight: 40
+          weight: 50
         # - identifier: example
         #   name: example.org
         #   url: https://example.org

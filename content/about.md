@@ -18,11 +18,12 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ---
 
-I'm an open source engineer who is fond of distributed systems and infrastructure-y things. I also love to write [blogs](/archives) and talk about my work at conferences!
+I'm an open source engineer who is fond of distributed systems and infrastructure-y things. I also love to write [blogs](/archives) and present at [conferences](/talks)!
 
 ### Currently I am
 
 - interning as a Member Of Technical Staff at [VMware](https://www.vmware.com/).
+- part of the [Kubernetes](https://kubernetes.io/) 1.23 Release Team.
 - completing my bachelor's and master's degrees from [IIT(BHU)](https://www.iitbhu.ac.in/).
 
 ### Previously I have

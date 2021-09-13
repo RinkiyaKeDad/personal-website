@@ -1,0 +1,17 @@
+---
+talks:
+- date: 2021-09-15
+  title: "A Guide To Evaluating Dependency Updates To Kubernetes"
+  location: "Kubernetes Community Days UK"
+  locationLink: https://community.cncf.io/events/details/cncf-kcd-uk-presents-kubernetes-community-days-uk-2021/
+  slides: https://docs.google.com/presentation/d/1-v22L7OCTlao6CCThzPZPdfx5pYYgwnd09WA2Ks2AxI/edit?usp=sharing
+- date: 2021-09-11
+  title: "How To Contribute To Kubernetes"
+  location: "OpenInfra Days Asia"
+  locationLink: https://2021.openinfra.asia/schedule.html
+  slides: https://docs.google.com/presentation/d/11a02Q4G5p1yghjmIvlkwk4o0QoKpfMePK9Wb-t4RC5k/edit?usp=sharing
+# - date: 2020-10-03
+#   title: "Lightning Talk: Kubernetes Deployment Best Practices"
+#   slides: https://speakerdeck.com/palnabarun/kubernetes-deployment-best-practices
+#   location: PyCon India
+#   recording: https://www.youtube.com/watch?v=o9NcWkhvLuA
