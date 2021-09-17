@@ -1,5 +1,10 @@
 ---
 talks:
+- date: 2021-09-17
+  title: "Making Your Controllers Resilient: Workqueue To The Rescue"
+  location: "PowerShell | DevOps | Cloud Conference"
+  locationLink: https://pdcconf.in/
+  slides: https://docs.google.com/presentation/d/1BuFxkmxVOZP47A2sS70A1ETA8XoiQGaVAmFIdmoIuhs/edit?usp=sharing
 - date: 2021-09-15
   title: "A Guide To Evaluating Dependency Updates To Kubernetes"
   location: "Kubernetes Community Days UK"
