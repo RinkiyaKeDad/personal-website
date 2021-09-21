@@ -24,7 +24,7 @@ I'm an open source engineer who is fond of distributed systems and infrastructur
 
 - interning as a Member Of Technical Staff at [VMware](https://www.vmware.com/).
 - part of the [Kubernetes](https://kubernetes.io/) 1.23 Release Team.
-- completing my bachelor's and master's degrees from [IIT(BHU)](https://www.iitbhu.ac.in/).
+<!-- - completing my bachelor's and master's degrees from [IIT(BHU)](https://www.iitbhu.ac.in/). -->
 
 ### Previously I have
 
