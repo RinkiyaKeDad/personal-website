@@ -5,6 +5,7 @@ talks:
   location: "KubeCon + CloudNativeCon + Open Source Summit China"
   locationLink: https://kccncosschn21.sched.com/event/pcav
   slides: https://docs.google.com/presentation/d/1c8tgTyBwS84ZkveG3fcgp_JKIqquR-cDUEtV7TKfhEo/edit?usp=sharing
+  recording: https://youtu.be/DzzQswjHTN8
 - date: 2021-10-09
   title: "depstat: Analyzing a Go Project’s Dependencies"
   location: "Cloud Native Rejekts"
