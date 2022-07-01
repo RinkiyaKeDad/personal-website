@@ -1,9 +1,9 @@
 ---
-title: "Talks" # in any language you want
+title: "Speaking" # in any language you want
 layout: "speaking" # is necessary
-url: "/talks"
+url: "/speaking"
 # description: "Description for Search"
-summary: "talks"
+summary: "speaking"
 showToc: false
 TocOpen: false
 draft: false
@@ -17,4 +17,4 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
-I enjoy speaking at conferences and taking workshops. This page lists some of the events I've spoken at.
+I enjoy speaking at conferences and webinars. This page lists some of the events I've spoken at.

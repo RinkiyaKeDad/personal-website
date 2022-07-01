@@ -117,14 +117,14 @@
                 at <a href="{{ .locationLink }}">{{ .location }}</a>
             </div>
             <div class="talk-metadata">
-                {{ if .slides }}
-                <div class="talk-metadata-item">
-                    <a href="{{ .slides }}">Slides</a>
-                </div>
-                {{ end }}
                 {{ if .recording }}
                 <div class="talk-metadata-item">
                     <a href="{{ .recording }}">Recording</a>
+                </div>
+                {{ end }}
+                {{ if .slides }}
+                <div class="talk-metadata-item">
+                    <a href="{{ .slides }}">Slides</a>
                 </div>
                 {{ end }}
             </div>

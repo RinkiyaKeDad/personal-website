@@ -18,22 +18,14 @@ ShowBreadCrumbs: false
 ShowPostNavLinks: true
 ---
 
-I'm an open source engineer who is fond of distributed systems and infrastructure-y things. I also love to write [blogs](/archives) and present at [conferences](/talks)!
+Hey there! My name is Arsh. Across the cyberspace, you'll also find me as **@RinkiyaKeDad** in many places. I'm a Developer Experience Engineer at [Okteto](https://www.okteto.com/). I enjoy building software, technical content, and communities! 
 
-### Currently I am
+![its a me](/itsame.jpg)
 
-- vacationing
-<!-- - completing my bachelor's and master's degrees from [IIT(BHU)](https://www.iitbhu.ac.in/). -->
+You can find (most of) my conference talks [here](/speaking). If you want to read some of my articles, you can head [here](/writing). Links to all my socials are on the [home page](/). The most reliable way to reach me is to send an email to hey@arshsharma.com.
 
-### Previously I have
-
-- worked as a Member of Technical Staff at [VMware](https://www.vmware.com/).
-- been part of the [Kubernetes](https://kubernetes.io/) 1.23 Release Team.
-- worked as a [Google Summer of Code](https://summerofcode.withgoogle.com/projects/#4740360753905664) Developer with [CNCF](https://www.cncf.io/).
-- worked as a software engineer with [Nirmata](https://nirmata.com/).
-- worked as a [Linux Foundation Mentee](https://mentorship.lfx.linuxfoundation.org/project/7c510003-5f52-45c2-b5de-b6664851d3de) with [Kubernetes](https://kubernetes.io/).
-
-You can find links to all my social profiles on the [home page](/). The most reliable way to reach me is to send an email to hey@arshsharma.com.
+### Work Experiences
+Not a big fan of duplicating information. If you want to read more about my past work, you can head over to [LinkedIn](https://www.linkedin.com/in/arsh4/).
 
 Legal boilerplate: All opinions expressed on this site are mine alone.
 

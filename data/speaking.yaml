@@ -1,5 +1,29 @@
 ---
 talks:
+- date: 2022-05-18
+  title: "Prow! Leveraging Developer-Centric CI for Your OSS Project!"
+  location: "KubeCon + CloudNativeCon Europe"
+  locationLink: https://kccnceu2022.sched.com/event/ytn6/prow-leveraging-developer-centric-ci-for-your-oss-project-nabarun-pal-vmware-arsh-sharma-okteto
+  slides: https://drive.google.com/file/d/1WBm9Hpi7gTYk0P4nONiRDeD0RCE1g2XP/view?usp=sharing
+  recording: https://youtu.be/sdU-3cqiJmg
+- date: 2022-05-16
+  title: "Leveraging Running Stateful Workloads on Kubernetes for the Benefit of Developers"
+  location: "DoK Day Europe"
+  locationLink: https://dok.community/dok-day-europe-2022-kubecon/
+  slides: https://docs.google.com/presentation/d/1wiUVGl0R9eyysKKIEKyWTBNBAiIeD-I02hRur2asIJs/edit?usp=sharing
+  recording: https://youtu.be/KUipuM3UJF4
+- date: 2022-05-02
+  title: "Maybe It's Time to Rethink How You've Been Developing?"
+  location: "DevX Conf"
+  locationLink: https://devxconf.org/
+  slides: https://docs.google.com/presentation/d/1_Q61iyc38qJoQp-4p_rFgI3jXrEooNLW3uqfxwyH7xQ/edit?usp=sharing
+  recording: https://youtu.be/FRmv-IS-7ow
+- date: 2022-04-23
+  title: "Leveraging Kubernetes For Remote Development Environments"
+  location: "Kubernetes Community Days Bengaluru"
+  locationLink: https://community.cncf.io/events/details/cncf-kcd-bengaluru-presents-kubernetes-community-days-bengaluru-2022-virtual-event/
+  slides: https://docs.google.com/presentation/d/1uuMK8ptWmBl7tqGZKWKtKT6TvwbwLXIyNEyBfJYQmHI/edit?usp=sharing
+  recording: https://youtu.be/p2XvLoPuvN8
 - date: 2021-12-10
   title: "The Hitchhiker's Guide to Evaluating Dependency Updates to Kubernetes"
   location: "KubeCon + CloudNativeCon + Open Source Summit China"
@@ -11,6 +35,7 @@ talks:
   location: "Cloud Native Rejekts"
   locationLink: https://cloud-native.rejekts.io/
   slides: https://docs.google.com/presentation/d/1XqhYXuVUjnRAnyW3z1_cYHtp_8CPzwiKSH0dbtwcxiU/edit?usp=sharing
+  recording: https://youtu.be/l-l-jZeLUDM
 - date: 2021-09-17
   title: "Making Your Controllers Resilient: Workqueue To The Rescue"
   location: "PowerShell | DevOps | Cloud Conference"

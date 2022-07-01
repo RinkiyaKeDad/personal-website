@@ -127,18 +127,14 @@ menu:
           name: About Me
           url: /about/
           weight: 10
-        - identifier: talks
-          name: Talks
-          url: /talks/
+        - identifier: speaking
+          name: Speaking
+          url: /speaking/
           weight: 20
-        - identifier: blog
-          name: Blogs
-          url: /archives/
+        - identifier: writing
+          name: Writing
+          url: /Writing/
           weight: 30
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 40
         - identifier: search
           name: Search
           url: /search/

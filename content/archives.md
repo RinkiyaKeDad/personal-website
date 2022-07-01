@@ -1,6 +1,7 @@
 ---
-title: "Archive"
+title: "Writing"
 layout: "archives"
-# url: "/archives"
-summary: "archives"
+url: "/writing"
+summary: "writing"
 ---
+Employer Blogs: [Okteto](https://www.okteto.com/blog/authors/arsh-sharma/)
