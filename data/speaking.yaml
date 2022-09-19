@@ -1,5 +1,11 @@
 ---
 talks:
+- date: 2022-07-23
+  title: "How Kubernetes Is Helping Shape the Future of Modern Application Development"
+  location: "OpenInfra & Cloud Native Days Asia 2022"
+  locationLink: https://2022.openinfra.asia/
+  slides: https://docs.google.com/presentation/d/1484dp70cBIZZibbEF6cuQBNQrWkDjI9a98ofVTi-8c8/edit?usp=sharing
+  recording: https://youtu.be/Kq44mkh3dyI
 - date: 2022-05-18
   title: "Prow! Leveraging Developer-Centric CI for Your OSS Project!"
   location: "KubeCon + CloudNativeCon Europe"
