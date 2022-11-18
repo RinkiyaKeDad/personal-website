@@ -1,8 +1,20 @@
 ---
 talks:
+- date: 2022-10-20
+  title: "Keynote: Did We Make Developers Happy by Shifting to Microservices?"
+  location: "Conf42 Kube Native"
+  locationLink: https://www.conf42.com/Kube_Native_2022_Arsh_Sharma_shifting_microservices
+  slides: https://docs.google.com/presentation/d/1HVU2_T2n8rQdu0veTqvba1aIabaL8mHDQs-xLLwmrEs/edit?usp=sharing
+  recording: https://youtu.be/vi8EJ1vflf0
+- date: 2022-10-13
+  title: "Using Kubernetes and Crossplane Together to Help Developers Code Cloud Native Applications"
+  location: "Kubernetes Community Days Mena"
+  locationLink: https://community.cncf.io/events/details/cncf-kcd-mena-presents-kcd-mena-2022/
+  slides: https://docs.google.com/presentation/d/183B_zHnrqdP7zs8cm_mL8uOJipf40CRrRrWBtVjLJLI/edit?usp=sharing
+  recording: https://youtu.be/N4j5IwlUQjc
 - date: 2022-07-23
   title: "How Kubernetes Is Helping Shape the Future of Modern Application Development"
-  location: "OpenInfra & Cloud Native Days Asia 2022"
+  location: "OpenInfra & Cloud Native Days Asia"
   locationLink: https://2022.openinfra.asia/
   slides: https://docs.google.com/presentation/d/1484dp70cBIZZibbEF6cuQBNQrWkDjI9a98ofVTi-8c8/edit?usp=sharing
   recording: https://youtu.be/Kq44mkh3dyI
