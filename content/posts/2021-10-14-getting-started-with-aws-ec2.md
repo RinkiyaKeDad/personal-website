@@ -3,7 +3,6 @@ title: "Getting Started With AWS EC2"
 read_time: true
 date: 2021-10-14T00:00:00+05:30
 tags:
-  - cloud
   - aws
   - devops
 ---

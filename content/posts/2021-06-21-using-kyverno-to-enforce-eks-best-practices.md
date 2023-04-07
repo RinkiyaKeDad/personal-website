@@ -3,9 +3,9 @@ title: "Using Kyverno To Enforce EKS Best Practices"
 read_time: true
 date: 2021-06-21T20:12:05+05:30
 tags:
-  - kyverno
   - kubernetes
-  - eks
+  - devops
+  - aws
 ---
 
 Hey folks, in this post we’ll see how you can use [Kyverno](https://kyverno.io/) to enforce some best practices for your [EKS](https://aws.amazon.com/eks/) cluster. For those not familiar, Kyverno is a Kubernetes native policy engine that aims to make your life easy when managing clusters. To know more you can read my [previous post](https://dev.to/rinkiyakedad/kyverno-simplify-managing-k8s-clusters-2kej) on Kyverno where we discuss the project and its internals in detail. With that out of the way, let’s get started!

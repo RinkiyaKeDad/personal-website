@@ -4,4 +4,4 @@ layout: "archives"
 url: "/writing"
 summary: "writing"
 ---
-Employer Blogs: [Okteto](https://www.okteto.com/blog/authors/arsh-sharma/)
+Much of the content I write gets published on my employer's (at that time) blog. Read it at: [Okteto](https://www.okteto.com/blog/authors/arsh-sharma/)

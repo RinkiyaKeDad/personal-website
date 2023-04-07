@@ -3,7 +3,6 @@ title: "Introduction To AWS IaaS"
 read_time: true
 date: 2021-10-02T00:00:00+05:30
 tags:
-  - cloud
   - aws
   - devops
 ---

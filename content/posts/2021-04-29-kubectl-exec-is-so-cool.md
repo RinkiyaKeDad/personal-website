@@ -5,6 +5,7 @@ date: 2021-04-29T20:12:05+05:30
 tags:
  - kubernetes
  - bash
+ - devops
 ---
 
 I recently learned about `kubectl port-forward` and `kubectl exec`, and I was amazed by what simple but cool stuff you could o with just these two commands when getting started with Kubernetes. So that's what this post is going to be about.

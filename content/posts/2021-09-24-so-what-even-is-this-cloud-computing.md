@@ -3,7 +3,6 @@ title: "So What Even Is This Cloud Computing?"
 read_time: true
 date: 2021-09-24T00:00:00+05:30
 tags:
-  - cloud
   - devops
 ---
 

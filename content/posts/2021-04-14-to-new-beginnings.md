@@ -4,10 +4,7 @@ read_time: true
 date: 2021-04-14T20:12:05+05:30
 tags:
   - kubernetes
-  - docker
-  - terraform
   - misc
-  - kyverno
 ---
 
 Hey folks! I've finally set up my own blog (yaaaaaay!). I was looking at ways to import the articles from my [Dev.to](https://dev.to/rinkiyakedad) but it seems like there is no easy way to go about it and I can't find the mental strength to copy-paste all 14 articles I've written till now.

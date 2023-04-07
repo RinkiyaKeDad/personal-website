@@ -6,6 +6,7 @@ draft: false
 tags:
  - kubernetes
  - bash
+ - devops
 ---
 
 Kubernetes relies on [Probes](https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/) to determine the health of a Pod container. A probe can be understood simply as a periodical diagnostic performed by the [kubelet](https://dev.to/rinkiyakedad/introduction-to-kubernetes-55o7) on the container.

@@ -1,5 +1,11 @@
 ---
 talks:
+- date: 2023-01-26
+  title: "Making DevOps Friendlier for Developers"
+  location: "Conf42 DevOps"
+  locationLink: https://www.conf42.com/DevOps_2023_Arsh_Sharma_devops_friendlier_for_developers
+  slides: https://conf42.github.io/static/slides/Conf42%20DevOps%202023%20-%20Arsh%20Sharma.pdf
+  recording: https://youtu.be/kpSifbUkPiI
 - date: 2022-10-20
   title: "Keynote: Did We Make Developers Happy by Shifting to Microservices?"
   location: "Conf42 Kube Native"
