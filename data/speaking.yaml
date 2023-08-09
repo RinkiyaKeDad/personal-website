@@ -1,5 +1,16 @@
 ---
 talks:
+- date: 2023-07-17
+  title: "Backstage: The Ultimate Access Pass to Maximum Developer Efficiency"
+  location: "Kubernetes Community Days Munich"
+  locationLink: https://community.cncf.io/events/details/cncf-kcd-munich-presents-kcd-munich-2023/
+  slides: https://docs.google.com/presentation/d/1lx2vt9LNoprU6pXEDWIM3cV0ksWJUbSRi791wDFUKAM/edit?usp=sharing
+- date: 2023-06-19
+  title: "Eliminating the Gap Between Development and Production with Kubernetes and Crossplane"
+  location: "KubeDay Israel"
+  locationLink: https://events.linuxfoundation.org/kubeday-israel/
+  slides: https://docs.google.com/presentation/d/1Oja-_B-U45mc8pdNYHfx6vTpMs77vvlF1DU8LrUUPjw/edit?usp=sharing
+  recording: https://youtu.be/k9REKoTeSzw
 - date: 2023-01-26
   title: "Making DevOps Friendlier for Developers"
   location: "Conf42 DevOps"

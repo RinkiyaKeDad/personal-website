@@ -41,6 +41,7 @@ func main() {
 If you want to run this application locally, you first have to build the binary and then run it.
 
 ```bash
+$ go mod init simple-go-server
 $ go build
 $ ./simple-go-server
 ```
