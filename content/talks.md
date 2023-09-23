@@ -17,4 +17,4 @@ ShowReadingTime: false
 ShowBreadCrumbs: false
 ShowPostNavLinks: false
 ---
-I enjoy speaking at conferences and webinars. This page lists some of the events I've spoken at.
+I regularly speak at various conferences all across the globe. This page lists some of the events I've spoken at.

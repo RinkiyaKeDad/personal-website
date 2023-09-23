@@ -77,17 +77,19 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hey there! \U0001F44B"
-        Content: I'm Arsh [(he/him)](https://pronoun.is/he) and I enjoy building things. [Read more.](/about) 
+        Content: I'm Arsh [(he/him)](https://pronoun.is/he) and I enjoy simplifying things. [Read more.](/about) 
 
     socialIcons:
         - name: twitter
           url: "https://twitter.com/RinkiyaKeDad"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/arsh4/"
         - name: github
           url: "https://github.com/RinkiyaKeDad"
         - name: dev
           url: "https://dev.to/rinkiyakedad"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/arsh4/"
+        - name: medium
+          url: "https://medium.com/@rinkiyakedad"
         - name: email
           url: "mailto:hey@arshsharma.com"
         - name: rss
@@ -130,11 +132,11 @@ menu:
         - identifier: speaking
           name: Speaking
           url: /speaking/
-          weight: 20
+          weight: 30
         - identifier: writing
           name: Writing
           url: /Writing/
-          weight: 30
+          weight: 20
         - identifier: search
           name: Search
           url: /search/
