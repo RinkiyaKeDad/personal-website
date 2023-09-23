@@ -56,7 +56,7 @@ This should show you the HTML for the nginx starter page.
 Alrighty, now that we have our EC2 instance all set up let's head back to the AWS console. If you select we instance we'll see information related to it on the bottom of our screen as shown in the below image.
 
 
-![instance info](/2021-10-14-1.png)
+![instance info](2021-10-14-1.png)
 
 
 The "Public IPv4 DNS" is the URL we can use to see the nginx starter page from any machine. So let's click on that and see what happens. 
@@ -69,13 +69,13 @@ If you've run servers before you'd know that allowing unfiltered internet traffi
 
 Since we didn't configure our security groups while launching the EC2 instance Amazon assigned the standard security group to it. Click on the "Security" tab next to "Details" and then click on the link under "Security groups". 
 
-![security groups](/2021-10-14-2.png)
+![security groups](2021-10-14-2.png)
 
 On the next screen, you will see one inbound and one outbound rule. The outbound rule allows our EC2 instance to communicate with anything on the internet. The inbound rule on the other hand says that anyone can connect to our instance using SSH. Click on the "Edit inbound rules" button to add another inbound rule. 
 
 We'll add a rule to allow HTTP traffic from anywhere to our EC2 instance. Add the rule shown below and then click on "Save rules". 
 
-![inbound rule](/2021-10-14-3.png)
+![inbound rule](2021-10-14-3.png)
 
 After doing this if you go to the previous URL you should see the nginx starter page :)
 
@@ -85,7 +85,7 @@ After doing this if you go to the previous URL you should see the nginx starter 
 Before we wrap up I want to show you one last thing. Just like we used the "Amazon Linux 2 AMI (HVM), SSD Volume Type" AMI for this EC2 instance, you can create an AMI from this instance. This would mean when you launch another instance using this created AMI you wouldn't have to install nginx again. To do this select your instance and go to Actions > Image and templates > Create image. Just add an image name and leave everything else to its default values. Now once the AMI is ready and you navigate to the AMIs section using the nav menu on the left you should be able to launch an instance using this image.
 
 
-![ami image](/2021-10-14-4.png)
+![ami image](2021-10-14-4.png)
 
 
 So this was it for this article and I hope you now feel familiar enough with EC2 instances to go and play with them yourselves. Thanks for reading and like always please feel free to [reach out](https://arshsharma.com/) to me if you have any feedback or doubts :)

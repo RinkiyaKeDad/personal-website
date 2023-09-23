@@ -22,7 +22,7 @@ Each function basically has three tasks:
 
 So let's say that function 1 reads the variable. But before it increments and writes it back function 2 also reads the variable. Both of them now increment the variable and write it back. But the value of the variable would have increased by only 1 since both functions initially read the same value. The following image should make it even more clear.
 
-![race condition](/2021-05-24-1.jpeg)
+![race condition](2021-05-24-1.jpeg)
 
 Please note that this is only one of the possible scenarios. It might just happen that the second goroutine reads the variable after the first one has already incremented and written back to it. In this case, the value would have increased by two. So when there is a race condition the final output is not fixed and can vary each time you run the program.
 

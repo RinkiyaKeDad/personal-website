@@ -86,7 +86,7 @@ $ minikube dashboard
 
 If you switch to the `kube-system` namespace and view all the pods in it, you should see the default pods K8s has running:
 
-![instance info](/2023-04-07-1.png)
+![instance info](2023-04-07-1.png)
 
 I’ve seen a lot of people just assume that the dashboard won’t be available with minikube since it’s not an actual “cluster in the cloud,” but that’s just simply not true :)
 

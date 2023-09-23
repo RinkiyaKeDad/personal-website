@@ -32,7 +32,7 @@ But if you do have a root account it's recommended you create an IAM user accoun
 
 Let's delve into a bit of a history lesson here. Before IaaS services like AWS launched, to host your application you would need to self-host. Self-hosting meant building out a data center of your own or renting space in someone else's data center. This is what a data center looks like.
 
-![data center](/2021-10-02-1.jpeg)
+![data center](2021-10-02-1.jpeg)
 
 A data center is mainly just a bunch of racks of servers. If you look at one of these servers you'll see that it's essentially just all the components you would find in your computer at home. It's just that these components are arranged in a different casing so that it slots easily into the rack to save space in the data center. So you would essentially buy one or more of these servers then you would either self-host in your room or take it to a colocated data center and slot it in a rack there. You could also rent one of these servers in a data center instead of buying your own. This had the added advantage of the data center people helping you if in case there was some hardware problem with the server. All this comes under on-premise hosting. 
 

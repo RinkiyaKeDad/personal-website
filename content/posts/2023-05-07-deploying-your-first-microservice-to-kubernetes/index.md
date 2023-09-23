@@ -48,7 +48,7 @@ $ ./simple-go-server
 
 Then, when you visit [localhost:4000](http://localhost:4000), you should see the text "Hello, World!" Pretty simple, right?
 
-![hello world](/2023-05-07-1.png)
+![hello world](2023-05-07-1.png)
 
 Now let's work on containerizing this Go service.
 
@@ -186,7 +186,7 @@ replicaset.apps/simple-go-server-6dbd986f57   1         1         1       4m53s
 
 As you can see, our Deployment object has created a Pod for us. The ReplicaSet object you see is also created by the Deployment, but only to manage the Pods it creates. Additionally, the `simple-go-server` service is running. Copy the `EXTERNAL-IP` you see for this service and visit that address in your browser.
 
-![hello world load balancer](/2023-05-07-2.png)
+![hello world load balancer](2023-05-07-2.png)
 
 And voila! Our application is now up and running and accessible. You can share this IP address with anyone, or even map it to a domain name to make your microservice easily accessible for users.
 

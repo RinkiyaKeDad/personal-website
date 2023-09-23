@@ -34,7 +34,7 @@ A bit of explanation:
 
 Now go to `localhost:8080` and you'll see the default Nginx starter page! 😁
 
-![nginx starter page](/2021-04-29-1.png)
+![nginx starter page](2021-04-29-1.png)
 
 We needed to do the `port-forward` because the IP address the pod is being assigned inside the cluster is not accessible by default, and it is the port forward which makes it so.
 
@@ -88,6 +88,6 @@ kubectl port-forward my-nginx 8080:80
 ```
 and visit `localhost:8080`. You should now see your changes in effect :)
 
-![edited nginx starter page](/2021-04-29-2.png)
+![edited nginx starter page](2021-04-29-2.png)
 
 And this was it for this post! I was pretty amazed when I learned to do this with just these two simple `kubectl` subcommands. I always find doing something to see the commands in practice much more useful than simply reading about them so I thought of sharing this with you all. I hope you found this post interesting. Thanks for reading! :D

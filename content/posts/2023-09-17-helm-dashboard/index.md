@@ -41,13 +41,13 @@ $ helm plugin install https://github.com/komodorio/helm-dashboard.git
 
 After that just running `helm dashboard` had the UI instantly displayed, detecting all the clusters listed in my local kubeconfig. It offered a summary of the helm charts that were installed, giving me the flexibility to select the cluster who's charts I wished to view.
 
-![the helm dashboard](/2023-09-17-3.png)
+![the helm dashboard](2023-09-17-3.png)
 
 ### Seeing Changes in Manifests and Values Between Different Versions
 
 This is such a quality of life feature and makes things so much easier when you want to compare what has changed over the course of any upgrades you might have done to your installed charts. Not only does it let you diff between how the installation manifests have changed, but it also lets you see the differences between values provided during the chart installation. Another neat feature is that it also lets you see these differences when upgrading to a newer version. This way, you can see what additional resources you might be creating in your cluster with the newer update.
 
-![seeing chages during update in the helm dashboard](/2023-09-17-2.png)
+![seeing chages during update in the helm dashboard](2023-09-17-2.png)
 
 ### No Security Risks
 
@@ -57,7 +57,7 @@ The cool part about this project is that everything runs locally and the dashboa
 
 This is an area where having a user interface greatly enhances convenience compared to the terminal. In the UI, you can find a well-organized list of all the charts available in a repository. The list shows a description of each chart so you know what you're installing. Moreover, there is a convenient button to install the desired charts from the list. It's these small details that I truly appreciate about the project. They accumulate and significantly contribute to the overall usefulness of the project, especially for those who regularly work with Helm.
 
-![browing repos using the helm dashboard](/2023-09-17-1.png)
+![browing repos using the helm dashboard](2023-09-17-1.png)
 
 ## Conclusion
 
