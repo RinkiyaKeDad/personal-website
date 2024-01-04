@@ -29,3 +29,4 @@ git submodule update --remote --merge
 ### Resources
 
 1. [This](https://youtu.be/LIFvgrRxdt4) video.
+2. To update the theme: `git submodule update --remote --merge`
