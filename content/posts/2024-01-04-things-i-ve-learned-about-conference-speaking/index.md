@@ -6,7 +6,7 @@ tags:
   - conferences
 ---
 
-On the wall across from my desk, I've got badges from all the conferences I've been to. The collection has grown quite a bit over the past two years. Recently, taking a look at it made me take a trip down memory lane and reflect on the first few talks I gave, as well as the ones I'm giving now - what's changed, what I do differently, and the things I've learned. This blog is gonna be about some of those learnings.
+On the wall across from my desk, I've got badges from all the conferences I've been to. The collection has grown quite a bit over the past two years. Recently, taking a look at it made me take a trip down memory lane and reflect on the first few talks I gave, as well as the ones I'm giving now - what's changed, what I do differently, and the things I've learned. This blog is going to be about some of those learnings.
 
 ![badges](badges.jpg)
 
