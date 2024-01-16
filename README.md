@@ -1,4 +1,8 @@
-# Hugo Instructions
+# UPDATE
+
+Code moved to: https://github.com/RinkiyaKeDad/rinkiyakedad.github.io and the build process is automated via a GitHub Action in that repo.
+
+## Hugo Instructions
 
 ### Cloning And Updating
 
