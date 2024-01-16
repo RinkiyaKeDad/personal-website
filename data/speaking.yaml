@@ -1,5 +1,11 @@
 ---
 talks:
+- date: 2023-12-08
+  title: "Improving the Cloud Development Experience: The Good, The Bad, and The Kubernetes-Crossplane Way"
+  location: "KubeDay India"
+  locationLink: https://events.linuxfoundation.org/kubeday-india/
+  slides: https://docs.google.com/presentation/d/1Zdak2whe-cshSt1XzbHbc8pqPT4_DYr8hJSJueoPqzY/edit?usp=sharing
+  recording: https://www.youtube.com/watch?v=98dJHXFhJDw
 - date: 2023-07-17
   title: "Backstage: The Ultimate Access Pass to Maximum Developer Efficiency"
   location: "Kubernetes Community Days Munich"
